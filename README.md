@@ -1,5 +1,5 @@
 # CHAPY: A GenAI Based Python Programming Assistant Prototype
-
+(This project was completed at the hackathon #UABtheHACK over a period of 24 hours.)
 A Python Assistant Application Prototype based on GPT for local files. Users can interact with the app 
 through test or voice messages. 
 
